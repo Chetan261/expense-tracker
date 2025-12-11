@@ -1,4 +1,4 @@
-export const BASE_URL = "https://backend-eta-woad-76.vercel.app/"; 
+export const BASE_URL = "https://backend-eta-woad-76.vercel.app"; 
 
 export const API_PATHS = {
   AUTH: {
